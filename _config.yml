@@ -9,8 +9,9 @@ description: >
 # Your information
 email: haen209@daum.net
 author: 이해인
-# https://github.com/Lee-Haein/lee-haein.github.io/blob/master/_includes/face_recognition-512.png"
-avatar: https://github.com/Lee-Haein/lee-haein.github.io/blob/master/_includes/face_recognition-512.png
+# https:// lee-haein.github.io/_includes/face_recognition-512.png"
+      
+avatar:  lee-haein.github.io/_includes/face_recognition-512.png
 profile: <br> 겸손하게 하루하루 배운 것들을 나누는 공간
 #twitter_username: twitter_username
 github_username:  yunho0130
