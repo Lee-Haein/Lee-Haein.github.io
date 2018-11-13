@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "자판기 만들기"
+date:   2018-10-10 17:01:13
+categories: Data_science
+permalink: /archivers/python_lecture_06
+---
 
 
 ```python
