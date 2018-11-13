@@ -1,4 +1,10 @@
-
+---
+layout: post
+title:  "헬로파이썬"
+date:   2018-09-17 18:01:13
+categories: Data_science
+permalink: /archivers/python_lecture_01
+---
 
 ```python
 # -*- coding: utf-8 -*-
