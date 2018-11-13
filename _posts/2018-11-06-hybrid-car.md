@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hybrid car"
+title:  "Hybrid car운영"
 date:   2018-11-06 17:30:13
 categories: Data_science
 permalink: /archivers/python_lecture_08
